@@ -1,0 +1,4 @@
+project_id = "construction-crm"
+
+[auth]
+enable_signup = false
